@@ -9,7 +9,7 @@ This is a simple clone application for the popular Netflix platform.
 - react-trailer, to retrieve trailers
 
 ### It should look like this:
-<img src="netflix.png" width="700" height="500">
+<img src="netflix.png" width="600" height="500">
 
 
 
